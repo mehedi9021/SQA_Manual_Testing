@@ -1,1 +1,1 @@
-# SQA_Manual_Testingg
+# SQA_Manual_Testing
